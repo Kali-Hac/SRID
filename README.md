@@ -38,6 +38,8 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 	- [**Sequence Learning Methods**](#Sequence-Learning-Methods)
 	- [**Graph Learning Methods**](#Graph-Learning-Methods)
 - [**Studies by Different Years**](#Studies-by-Different-Years)
+	- [**2025**](#2025)
+	- [**2024**](#2024)
 	- [**2023**](#2023)
 	- [**2022**](#2022)
 	- [**2021**](#2021)
@@ -224,7 +226,7 @@ We also include 2D skeleton based datasets that could be converted into 3D datas
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (_ECCV Workshop 2012_)
 
 
-###  **Leaderboards (Main Protocol)**
+###  **Leaderboards**
 | **Methods**                                 | **BIWI-S** |        |        |         | **BIWI-W** |        |        |         | **KS20** |        |        |         |
 |---------------------------------------------|:----------:|:------:|:------:|:-------:|:----------:|:------:|:------:|:-------:|:--------:|:------:|:------:|:-------:|
 |                                             |        mAP | Rank-1 | Rank-5 | Rank-10 |        mAP | Rank-1 | Rank-5 | Rank-10 |      mAP | Rank-1 | Rank-5 | Rank-10 |
