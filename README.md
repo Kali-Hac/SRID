@@ -34,9 +34,9 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
-	- [**Hand-Crafted Methods**](#Hand-Crafted-Methods)
-	- [**Sequence Learning Methods**](#Sequence-Learning-Methods)
-	- [**Graph Learning Methods**](#Graph-Learning-Methods)
+	- [**Hand-Crafted Methods**](#Hand-Crafted-Modeling)
+	- [**Sequence Learning Methods**](#Sequence-Based-Modeling)
+	- [**Graph Learning Methods**](#Graph-Based-Modeling)
 - [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025**](#2025)
 	- [**2024**](#2024)
@@ -88,7 +88,7 @@ We also include 2D skeleton based datasets that could be converted into 3D datas
 
 ![image](https://github.com/Kali-Hac/SRID/blob/main/overview/method_overview.jpg)
 
-#### Hand-Crafted Methods
+#### Hand-Crafted Modeling
 - [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
 
 - [3D reconstruction of freely moving persons for re-identification with a depth sensor](https://doi.org/10.24963/ijcai.2020/125) (_ICRA 2014_)
@@ -116,7 +116,7 @@ We also include 2D skeleton based datasets that could be converted into 3D datas
 - [Re-visiting k-Reciprocal Distance Re-ranking for Skeleton-Based Person Re-identification](https://ieeexplore.ieee.org/document/9913633) (_IEEE Signal Processing Letters 2022_)
 
 
-#### Sequence Learning Methods
+#### Sequence-Based Modeling
 
 - [Person identification by walking gesture using skeleton sequences](https://link.springer.com/chapter/10.1007/978-3-030-40605-9_18) (_Advanced Concepts for Intelligent Vision Systems 2020_)
 
@@ -134,7 +134,7 @@ We also include 2D skeleton based datasets that could be converted into 3D datas
   
 - [Hierarchical Skeleton Meta-prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-identification](https://arxiv.org/pdf/2307.12917)  (_International Journal of Computer Vision 2024_) [[Github](https://github.com/Kali-Hac/Hi-MPC)] ![](https://img.shields.io/github/stars/Kali-Hac/Hi-MPC.svg?style=social)
 
-#### Graph Learning Methods
+#### Graph-Based Modeling
 
 - [SM-SGE: A Self-Supervised Multi-Scale Skeleton Graph Encoding Framework for Person Re-Identification](https://doi.org/10.1145/3474085.3475330) (_ACM MM 2021_) [[Github](https://github.com/Kali-Hac/SM-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/SM-SGE.svg?style=social)
 
