@@ -34,9 +34,9 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
-	- [**Hand-Crafted Methods**](#Hand-Crafted-Modeling)
-	- [**Sequence Learning Methods**](#Sequence-Based-Modeling)
-	- [**Graph Learning Methods**](#Graph-Based-Modeling)
+	- [**Hand-Crafted Modeling**](#Hand-Crafted-Modeling)
+	- [**Sequence Based Modeling**](#Sequence-Based-Modeling)
+	- [**Graph Based Modeling**](#Graph-Based-Modeling)
 - [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025**](#2025)
 	- [**2024**](#2024)
