@@ -8,7 +8,7 @@ It is collected and organized based on the [first comprehensive SRID survey](htt
 
 We will continuously update it with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request.
 
-For more papers and resources on **Skeleton-Based Models (Action Recognition, Pose Estimation, etc.)** from top-tier AI conferences and journals, kindly refer to [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
+For more papers and resources on Skeleton-Based Models (Action Recognition, Pose Estimation, etc.) from top-tier AI conferences and journals, kindly refer to [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## Survey Paper
 [Recognizing Identities From Human Skeletons: A Survey on 3D Skeleton Based Person Re-Identification](https://arxiv.org/pdf/2401.15296.pdf)
