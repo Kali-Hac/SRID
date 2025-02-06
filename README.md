@@ -21,7 +21,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ## Taxonomy of SRID Research
 ![image](https://github.com/Kali-Hac/SRID/blob/main/overview/taxonomy_overview.jpg)
 
-## Milestone Overview
+## Overview of Milestones in SRID
 ![image](https://github.com/Kali-Hac/SRID/blob/main/overview/SRID-Timeline.jpg)
 
 
