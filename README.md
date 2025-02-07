@@ -273,7 +273,7 @@ We also include 2D skeleton based datasets that could be converted into 3D datas
 If you found this paper/repository useful, please consider citing:
 ```bash
 @article{rao2025survey,
-  title=Recognizing Identities From Human Skeletons: A Survey on 3D Skeleton Based Person Re-Identification},
+  title={Recognizing Identities From Human Skeletons: A Survey on 3D Skeleton Based Person Re-Identification},
   author={Rao, Haocong and Miao, Chunyan},
   journal={arXiv preprint arXiv:2401.15296},
   year={2025}
